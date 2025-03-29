@@ -1,0 +1,13 @@
+Calculadora de costos:
+
+Estima el tiempo y costo de un proyecto  segun los siguintes criterios:
+
+- Cada funcinalidad tiene una complejidad: baja (5 dias), media (10 dias) o alta (15 dias)
+- Cada  desarrollador puede trabajar 8 horas al día
+- La tarifa por hora de un desarrollador es de 30 dolares
+
+Objetivo:
+
+- pide al usuario ingresar cuantas funcionalidades de cadda nivel de complejidad tiene el proyecto
+- Calcula el tiempo total en dias y el costo total del proyecto en dolares 
+- Muestra el resultado con un mensaje amigable al usuario
